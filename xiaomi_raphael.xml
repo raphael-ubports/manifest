@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/xiaomi/raphael" name="raphael-ubports/device_xiaomi_raphael" remote="github" revision="lineage-16.0" />
+  <project path="kernel/xiaomi/raphael" name="raphael-ubports/device_xiaomi_raphael" remote="github" revision="raphael-p-oss" />
+  <project path="vendor/xiaomi" name="TheScarastic/proprietary_vendor_xiaomi" remote="github" revision="lineage-16.0-raphael" />
+</manifest>
